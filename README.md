@@ -1,5 +1,5 @@
 # Robot Framework
-Robot Framework is a generic open source automation framework. Robot Framework is open and extensible and can be integrated with virtually any other tool to create powerful and flexible automation solutions.
+Robot Framework is a generic open-source automation framework. Robot Framework is open and extensible and can be integrated with virtually any other tool to create powerful and flexible automation solutions. Robot Framework has easy syntax, utilizing human-readable keywords.
 
 # Blogs written
 - [How to install Robot Framework on MAC](https://testersdock.com/robot-framework-install-mac/)
