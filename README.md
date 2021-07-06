@@ -13,3 +13,4 @@ Robot Framework is a generic open-source automation framework. Robot Framework i
 - [Writing your First Test in Robot Framework](https://testersdock.com/first-test-robot-framework/)
 - [How to write user-defined Keywords in Robot Framework](https://testersdock.com/user-defined-keywords-robot-framework/)
 - [What are variables in Robot Framework](https://testersdock.com/variables-robot-framework/)
+- [How to do conditional testing(If-Else) in Robot Framework](https://testersdock.com/if-else-robot-framework/)
