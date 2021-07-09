@@ -16,3 +16,4 @@ Robot Framework is a generic open-source automation framework. Robot Framework i
 - [How to do conditional testing(If-Else) in Robot Framework](https://testersdock.com/if-else-robot-framework/)
 - [How to use For Loop in Robot Framework](https://testersdock.com/for-loop-robot-framework/)
 - [How to work with Iframes in Robot Framework](https://testersdock.com/iframes-robot-framework/)
+- [How to work with Shadow DOM in Robot Framework](https://testersdock.com/shadow-dom-robot-framework/)
