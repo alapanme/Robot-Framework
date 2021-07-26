@@ -21,3 +21,4 @@ Robot Framework is a generic open-source automation framework. Robot Framework i
 - [Keyboard and Mouse actions in Robot Framework](https://testersdock.com/keyboard-mouse-actions-robot-framework/)
 - [How to handle dropdowns, checkboxes and Radio buttons in Robot Framework](https://testersdock.com/dropdown-checkbox-radio-buttons-robot-framework/)
 - [How to perform API Testing in Robot Framework](https://testersdock.com/api-testing-robot-framework/)
+- [How to Upload and Download a File in Robot Framework](https://testersdock.com/upload-download-robot-framework/)
