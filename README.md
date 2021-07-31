@@ -23,3 +23,5 @@ Robot Framework is a generic open-source automation framework. Robot Framework i
 - [How to perform API Testing in Robot Framework](https://testersdock.com/api-testing-robot-framework/)
 - [How to Upload and Download a File in Robot Framework](https://testersdock.com/upload-download-robot-framework/)
 - [How to Handle Javascript Alert, Confirm and Prompt in Robot Framework](https://testersdock.com/handle-javascript-alert-robot-framework/)
+- [How to implement Page Object Model (POM) in Robot Framework](https://testersdock.com/robot-framework-page-object-model/)
+- [Database Testing in Robot Framework](https://testersdock.com/robot-framework-database-testing/)
