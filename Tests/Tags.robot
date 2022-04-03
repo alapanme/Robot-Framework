@@ -1,5 +1,6 @@
 *** Settings ***
 Documentation  Tags in Robot Framework
+Force Tags  Testersdock
 
 *** Variables ***
 
@@ -23,5 +24,8 @@ Test Case 4
 Test Case 5
     [tags]  Sanity
     Log To Console  This is test case 5
+
+Test Case 6
+    Log To Console  This is test case 6
 
 *** Keywords ***
